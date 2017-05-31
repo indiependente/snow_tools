@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# test files
+zsh_profile.json
